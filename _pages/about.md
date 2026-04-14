@@ -1,6 +1,7 @@
 ---
-permalink: https://kiimby.github.io/about.html
+permalink: /about/
 title: "About"
+layout: "page"
 excerpt: # "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
