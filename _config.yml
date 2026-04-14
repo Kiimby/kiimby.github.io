@@ -138,6 +138,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/kiimbyart/"
+    - label: "Fediverse"
+      icon: "fa-brands fa-fediverse"
+      url: https://misskey.art/@kimby
 
 # Site Footer
 footer:
