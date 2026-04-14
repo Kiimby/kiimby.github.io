@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "3D Artist and Gamedev"
   location         : "Guatemala"
-  email            : "kimberly@outlook.com"
+  #email            : "kimberlyeqs@outlook.com"
   fediverse        : "@kimby@misskey.art"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
@@ -126,9 +126,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/kiimby.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       # url: "https://facebook.com/"
