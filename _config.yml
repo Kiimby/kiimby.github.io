@@ -321,6 +321,6 @@ defaults:
 
 #Collections
 collections:
-  portfolio:
+  pages:
     output: true
     permalink: /:collection/:path/
