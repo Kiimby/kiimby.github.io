@@ -324,3 +324,6 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+
+#For Pages
+include: ["_pages"]
