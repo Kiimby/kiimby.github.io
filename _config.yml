@@ -21,7 +21,7 @@ title                    : "Kimby Art"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kimberly Quevedo"
-description              : "3D Art and Game Development portfolio site, sometimes blogs."
+description              : "3D Art and Game Designer portfolio site, sometimes blogs."
 url                      : "https://kiimby.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Kiimby/kiimby.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -129,12 +129,6 @@ author:
     - label: "Bluesky"
       icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/kiimby.bsky.social"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/kiimbyart/"
@@ -149,21 +143,12 @@ footer:
       icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/kiimby.bsky.social"
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/kiimbyart/"
+    - label: "Fediverse"
+      icon: "fa-brands fa-fediverse"
+      url: https://misskey.art/@kimby
   since: "2026"
 
 
@@ -171,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -331,4 +317,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+#Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
