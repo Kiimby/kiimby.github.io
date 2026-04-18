@@ -1,2 +1,2 @@
 # kiimby.github.io
-Art site
+Art site in progress
