@@ -4,7 +4,7 @@ title:  "Quetzal"
 categories:
     - Portfolio
 header:
-  teaser: /assets/images/Portfolio/QuetzalSculture/quetzalcloseup2.jpeg
+  teaser: /assets/images/Teaser/QuetzalTeaser.jpg
 
 ---
 
@@ -13,7 +13,7 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
 [//]: <> (First close up render)
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Portfolio/QuetzalSculture/quetzalcloseup2.jpeg" | relative_url }})
+![Foo]({{ "/assets/images/Portfolio/QuetzalSculpture/quetzalcloseup2.jpeg" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -24,7 +24,7 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
 [//]: <> (Second close up render)
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Portfolio/QuetzalSculture/quetzalcloseup3.jpeg" | relative_url }})
+![Foo]({{ "/assets/images/Portfolio/QuetzalSculpture/quetzalcloseup3.jpeg" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -34,7 +34,7 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
 
 [//]: <> (Turn around renders)
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Portfolio/QuetzalSculture/quetzalturnaround.jpeg" | relative_url }})
+![Foo]({{ "/assets/images/Portfolio/QuetzalSculpture/quetzalturnaround.jpeg" | relative_url }})
 {% endcapture %}
 
 <figure>
