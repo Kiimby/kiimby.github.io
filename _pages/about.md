@@ -29,12 +29,9 @@ On the web side, i am completely self-taught. I've actually starting to learn.
 This page is made by myself with the help of Jekyll and Github since i wanted something more customizable than the classic link card in bio.
 
 ## Contact me
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST";>
+<form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST">
   <input type="text" name="name">
   <input type="email" name="email">
   <input type="text" name="tel">
-  <!-- Don't forget to set the Recaptcha Private key on the Form Settings tab. --> 
-  <div class="g-recaptcha" data-sitekey="_____________________PUBLIC_KEY_______________________"></div>
   <button type="submit">Send</button>
-</form>
+  </form>
