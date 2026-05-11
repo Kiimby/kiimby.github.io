@@ -27,3 +27,6 @@ On the art side i am a mix of self-taught since i am always learning new things,
 
 On the web side, i am completely self-taught. I've actually starting to learn. 
 This page is made by myself with the help of Jekyll and Github since i wanted something more customizable than the classic link card in bio.
+
+## Contact me
+<a href="mailto:{{ kimberlyeqs@outlook.com | encode_email }}" title="Contact me">Contact me</a>
