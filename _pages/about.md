@@ -35,7 +35,8 @@ Want to get in touch? Fill the form below to send me a message, I will get back 
 <form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST">
   <input type="text" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Email Address">
-  <input type="text" name="tel">
+  <input type="text" name="tel" placeholder="Phone number">
+  <textarea rows="5" class="form-control" placeholder="Message" name="message" required data-validation-required-message="Please enter a message."></textarea>
   <!-- Don't forget to set the Recaptcha Private key on the Form Settings tab. --> 
   <div class="g-recaptcha" data-sitekey="6Le1DuUsAAAAAO7nMxqklD27jJEKFWqPOJJxaTgg"></div>
   <button type="submit">Send</button>
