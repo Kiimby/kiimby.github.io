@@ -30,7 +30,7 @@ This days i decided to upgrade the illumination and work post processing in blen
 [//]: <> (Render)
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Portfolio/UtulexComplex/UtRender.jpg" | relative_url }})
+![Foo]({{ "/assets/images/Portfolio/UtulekComplex/UtRender.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -41,7 +41,7 @@ This days i decided to upgrade the illumination and work post processing in blen
 [//]: <> (Textures render)
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Portfolio/UtulexComplex/UtTextures.jpg" | relative_url }})
+![Foo]({{ "/assets/images/Portfolio/UtulekComplex/UtTextures.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -52,7 +52,7 @@ This days i decided to upgrade the illumination and work post processing in blen
 [//]: <> (Wireframe)
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Portfolio/UtulexComplex/UtWireframe.jpg" | relative_url }})
+![Foo]({{ "/assets/images/Portfolio/UtulekComplex/UtWireframe.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
