@@ -4,6 +4,21 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
+
+#Debug
+yaml
+
+- name: Debug Ruby environment
+  run: |
+    which ruby
+    ruby --version
+    which gem
+    gem --version
+    which bundle
+    echo "Gem path: $(gem env gemdir)"
+    ls -la $(gem env gemdir)/bin/ || echo "No binaries found"
+#Debug
+
 name: Deploy Jekyll site to Pages
 
 on:
