@@ -21,7 +21,7 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Body close up.</figcaption>
+  <figcaption>Body close up</figcaption>
 </figure>
 
 [//]: <> (Second close up render)
@@ -32,7 +32,7 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Tail close up.</figcaption>
+  <figcaption>Tail close up</figcaption>
 </figure>
 
 [//]: <> (Turn around renders)
@@ -43,5 +43,5 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Different views.</figcaption>
+  <figcaption>Different views</figcaption>
 </figure>

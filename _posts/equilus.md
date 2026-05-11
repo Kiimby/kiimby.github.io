@@ -26,3 +26,5 @@ https://www.deviantart.com/goldfishkang/art/Equilus-Model-Sheet-340832149
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/Portfolio/Equilus/EqRenderLados.jpg" | relative_url }})
 {% endcapture %}
+
+[//]: <> (Add 360)
