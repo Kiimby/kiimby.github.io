@@ -1,6 +1,6 @@
 ---
-permalink: /personalprojects/
-title: "Personal Projects"
+permalink: /portfolio/
+title: "Portfolio
 layout: "page"
 autor profile: true
 excerpt: "3D projects"
