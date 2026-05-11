@@ -11,7 +11,8 @@ tags:
   - personal project
 ---
 
-Project made for my second year of university with my classmate @letpetehost.
+Project made for my second year of university with my classmate [@letpetehost](https://www.instagram.com/letpetehost/).
+
 He worked on the modelling of the big light, traffic assets, chairs, door, trash assets, cables, extras for floor and secondary lamps.
 
 I made the models and textured the rest of the environment, light meter, tubes, metal sheets, cables, metal cages, walls, windows, steel columns, floor, railings, extras for floor. And i worked on the illumination.
