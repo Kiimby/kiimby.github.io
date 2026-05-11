@@ -30,8 +30,8 @@ This page is made by myself with the help of Jekyll and Github since i wanted so
 
 ## Contact me
 <form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="email">
+  <input type="text" name="name" placeholder="Your name">
+  <input type="email" name="email" placeholder="Your email">
   <input type="text" name="tel">
   <button type="submit">Send</button>
   </form>
