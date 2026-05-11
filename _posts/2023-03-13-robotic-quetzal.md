@@ -4,7 +4,7 @@ title:  "Quetzal"
 categories:
     - Portfolio
 header:
-  teaser: /assets/images/Teaser/QuetzalTeaser.jpg
+  teaser: /assets/images/Teaser/QuetzalTeaser.png
 
 ---
 
