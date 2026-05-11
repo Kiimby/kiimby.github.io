@@ -5,6 +5,7 @@ categories:
     - Portfolio
 header:
   teaser: /assets/images/Teaser/QuetzalTeaser.png
+  og_image: /assets/images/page-header-og-image.png
 tags: 
     - Sculpture 
     - 3D Printing
