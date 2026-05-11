@@ -21,7 +21,8 @@ https://www.deviantart.com/goldfishkang/art/Equilus-Model-Sheet-340832149
 ![Foo]({{ "/assets/images/Portfolio/Equilus/EqRender1.jpg" | relative_url }})
 {% endcapture %}
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Body close up.</figcaption>
-</figure>
+[//]: <> (Second render)
+
+{% capture fig_img %}
+![Foo]({{ "/assets/images/Portfolio/Equilus/EqRenderLados.jpg" | relative_url }})
+{% endcapture %}
