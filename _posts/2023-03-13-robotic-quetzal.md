@@ -5,7 +5,9 @@ categories:
     - Portfolio
 header:
   teaser: /assets/images/Teaser/QuetzalTeaser.png
-taxonomy: sculpture portfolio
+tags: 
+    - Sculpture 
+    - 3D Priting
 
 ---
 
