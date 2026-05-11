@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/Teaser/QuetzalTeaser.png
 tags: 
     - Sculpture 
-    - 3D Priting
+    - 3D Printing
 
 ---
 
