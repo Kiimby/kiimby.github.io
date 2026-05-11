@@ -19,7 +19,7 @@ This days i decided to upgrade the illumination and work post processing in blen
 [//]: <> (Post process final image)
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Portfolio/UtulexComplex/UtPostProcessing2.jpg" | relative_url }})
+![Foo]({{ "/assets/images/Portfolio/UtulekComplex/UtPostProcessing2.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
