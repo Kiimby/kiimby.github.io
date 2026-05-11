@@ -1,12 +1,11 @@
 ---
 permalink: /portfolio/
-title: "Portfolio
+title: Portfolio
 layout: collection
 collection: portfolio
 entries_layout: grid
 classes: wide
 autor profile: true
-toc: true
 ---
 
 Professional and personal art projects.
