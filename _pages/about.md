@@ -32,7 +32,7 @@ This page is made by myself with the help of Jekyll and Github since i wanted so
 Want to get in touch? Fill the form below to send me a message, I will get back to you soon as possible!
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
-<form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST";>
+<form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST">
   <input type="text" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Email Address">
   <input type="text" name="tel">
