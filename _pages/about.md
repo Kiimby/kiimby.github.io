@@ -26,4 +26,4 @@ I consider myself in a collaborative, creative, considered and attentive person.
 On the art side i am a mix of self-taught since i am always learning new things, improving skills, doing research, fiding feedback and trying new programs.
 
 On the web side, i am completely self-taught. I've actually starting to learn. 
-This page is made by myself with the help of Jekyll and Github, since i wanted something more customizable than the classic link card in bio.
+This page is made by myself with the help of Jekyll and Github since i wanted something more customizable than the classic link card in bio.
