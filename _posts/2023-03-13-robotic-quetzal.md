@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Quetzal"
 date: 2023-03-13
 header:
