@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Utulek COmplex"
+title:  "Utulek Complex"
 date: 2022-10-01
 header:
   teaser: "/assets/images/Teaser/UtTeaser.png"
