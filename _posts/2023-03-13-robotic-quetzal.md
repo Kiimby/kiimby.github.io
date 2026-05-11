@@ -1,9 +1,9 @@
 ---
 layout: posts
 title:  "Quetzal"
+date: 2023-03-13
 header:
-  teaser: /assets/images/Teaser/QuetzalTeaser.png
-  og_image: /assets/images/QuetzalTeaser.png
+  teaser: "/assets/images/Teaser/QuetzalTeaser.png"
 categories:
   - Portfolio
 tags: 
