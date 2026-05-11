@@ -9,7 +9,6 @@ categories:
 tags: 
   - sculpture 
   - 3D printing
-
 ---
 
 Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología Guatemaya.
@@ -37,6 +36,7 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
 </figure>
 
 [//]: <> (Turn around renders)
+
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/Portfolio/QuetzalSculpture/quetzalturnaround.jpg" | relative_url }})
 {% endcapture %}
