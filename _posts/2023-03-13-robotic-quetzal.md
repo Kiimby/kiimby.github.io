@@ -3,6 +3,9 @@ layout: posts
 title:  "Quetzal"
 categories:
     - Portfolio
+header:
+  teaser: /assets/images/Portfolio/QuetzalSculture/quetzalcloseup2.jpeg
+
 ---
 
 Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología Guatemaya.
