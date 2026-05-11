@@ -135,6 +135,9 @@ author:
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
       url: https://misskey.art/@kimby
+    - label: "ArtStation"
+      icon: "fa-brands fa-artstation"
+      url: https://www.artstation.com/kimmby
 
 # Site Footer
 footer:
@@ -149,6 +152,9 @@ footer:
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
       url: https://misskey.art/@kimby
+    - label: "ArtStation"
+      icon: "fa-brands fa-artstation"
+      url: https://www.artstation.com/kimmby
   since: "2026"
 
 
