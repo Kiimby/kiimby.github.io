@@ -5,10 +5,10 @@ header:
   teaser: /assets/images/Teaser/QuetzalTeaser.png
   og_image: /assets/images/page-header-og-image.png
 categories:
-    - Portfolio
+  - Portfolio
 tags: 
-    - sculpture 
-    - 3D printing
+  - sculpture 
+  - 3D printing
 
 ---
 
