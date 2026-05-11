@@ -4,7 +4,9 @@ title: "Portfolio
 layout: collection
 collection: portfolio
 entries_layout: grid
+classes: wide
 autor profile: true
-excerpt: "3D projects"
 toc: true
 ---
+
+Professional and personal art projects.
