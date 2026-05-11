@@ -38,6 +38,6 @@ Want to get in touch? Fill the form below to send me a message, I will get back 
   <input type="text" name="tel" placeholder="Phone number">
   <textarea rows="5" class="form-control" placeholder="Message" name="message" required data-validation-required-message="Please enter a message."></textarea>
   <!-- Don't forget to set the Recaptcha Private key on the Form Settings tab. --> 
-  <div class="g-recaptcha" data-sitekey="6Le1DuUsAAAAAO7nMxqklD27jJEKFWqPOJJxaTgg"></div>
+  <div class="g-recaptcha" data-sitekey="6Lf5IOUsAAAAACwDeP1oxzGKcrZw5ygSIS904kxa"></div>
   <button type="submit">Send</button>
 </form>
