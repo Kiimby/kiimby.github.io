@@ -45,3 +45,10 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Different views.</figcaption>
 </figure>
+
+
+```yaml
+header:
+  teaser: /assets/images/Teaser/QuetzalTeaser.png
+  og_image: /assets/images/page-header-og-image.png
+  ```
