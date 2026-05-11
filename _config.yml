@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Kimberly Quevedo"
   avatar           : "/assets/images/Avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "3D Artist and Gamedev"
+  bio              : "3D Artist and Game Designer"
   location         : "Guatemala"
   #email            : "kimberlyeqs@outlook.com"
   fediverse        : "@kimby@misskey.art"  # used for fediverse:creator meta tag
