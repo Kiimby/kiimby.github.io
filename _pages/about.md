@@ -29,7 +29,7 @@ On the web side, i am completely self-taught. I've actually starting to learn.
 This page is made by myself with the help of Jekyll and Github since i wanted something more customizable than the classic link card in bio.
 
 ## Contact me
-Want to get in touch? Fill the form below to send me a message, I will get back to you soon as possible!</p>
+Want to get in touch? Fill the form below to send me a message, I will get back to you soon as possible!
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
 <form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST";>
