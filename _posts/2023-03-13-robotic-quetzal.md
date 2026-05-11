@@ -1,14 +1,14 @@
 ---
 layout: posts
 title:  "Quetzal"
-categories:
-    - Portfolio
 header:
   teaser: /assets/images/Teaser/QuetzalTeaser.png
   og_image: /assets/images/page-header-og-image.png
+categories:
+    - Portfolio
 tags: 
-    - Sculpture 
-    - 3D Printing
+    - sculpture 
+    - 3D printing
 
 ---
 
@@ -45,10 +45,3 @@ Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología 
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Different views.</figcaption>
 </figure>
-
-
-```yaml
-header:
-  teaser: /assets/images/Teaser/QuetzalTeaser.png
-  og_image: /assets/images/page-header-og-image.png
-  ```
