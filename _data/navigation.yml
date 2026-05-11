@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: https://kiimby.github.io/portfolio/
+  - title: "Personal Projects"
+    url: https://kiimby.github.io/personalprojects/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
