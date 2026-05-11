@@ -12,7 +12,7 @@ last_modified_at: 2026-04-13
 toc: true
 ---
 
-Game Designer and 3D Artist based in Guatemala from Universidad Internaciones (UNI), with a special passion on art for games and animation, looking forward to be a 3D generalist and/or 3D character modeler.
+Game Designer and 3D Artist based in Guatemala from Universidad Internaciones (UNI) with a special passion on art for games and animation, looking forward to be a 3D generalist or 3D character modeler.
 
 Currently in a Game Developer program for women in Universidad del Valle de Guatemala (UVG).
 
