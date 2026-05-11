@@ -1,13 +1,19 @@
 ---
 layout: post
-title:  "Robotic Quetzal"
+title:  "Quetzal"
 categories:
     - Portfolio
 ---
-<p style="text-align: center;">
-# Robotic Quetzal
 
-Robotic Quetzal bird for 3D printing, commission made for Pilas Tecnología Guatemaya.
-Made the base with box modeling and many hard surface details with sculpture.
+# Quetzal
 
-</p>
+Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología Guatemaya.
+
+{% capture fig_img %}
+![Foo]({{ "/assets/images/Portfolio/QuetzalSculture/quetzalcloseup2.jpeg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Head close up.</figcaption>
+</figure>
