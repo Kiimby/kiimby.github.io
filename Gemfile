@@ -1,2 +1,12 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll", "~> 4.3.0"
+gem "webrick", "~> 1.8"
+
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-include-cache"
+end
