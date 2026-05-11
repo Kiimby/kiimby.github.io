@@ -29,9 +29,13 @@ On the web side, i am completely self-taught. I've actually starting to learn.
 This page is made by myself with the help of Jekyll and Github since i wanted something more customizable than the classic link card in bio.
 
 ## Contact me
-<form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST">
-  <input type="text" name="name" placeholder="Your name">
-  <input type="email" name="email" placeholder="Your email">
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<p> Want to get in touch? Fill the form below to send me a message, I will get back to you soon as possible!</p>
+<form action="https://smartforms.dev/submit/6a020e42c184545ccc2286fe" method="POST";>
+  <input type="text" name="name" id="name" placeholder="Your name">
+  <input type="email" name="email" id="email" placeholder="Email Address">
   <input type="text" name="tel">
+  <!-- Don't forget to set the Recaptcha Private key on the Form Settings tab. --> 
+  <div class="g-recaptcha" data-sitekey="6Le1DuUsAAAAAO7nMxqklD27jJEKFWqPOJJxaTgg"></div>
   <button type="submit">Send</button>
-  </form>
+</form>
