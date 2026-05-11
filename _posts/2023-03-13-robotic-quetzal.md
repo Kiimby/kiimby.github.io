@@ -5,8 +5,6 @@ categories:
     - Portfolio
 ---
 
-# Quetzal
-
 Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología Guatemaya.
 
 [//]: <> (First close up render)

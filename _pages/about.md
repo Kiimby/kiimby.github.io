@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout: "page"
+layout: "pages"
 autor profile: true
 excerpt: "Game Designer and 3D Artist based in Guatemala."
 layouts_gallery:
