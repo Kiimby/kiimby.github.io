@@ -17,7 +17,7 @@ I am Game Designer and 3D Artist based in Guatemala from Universidad Internacion
 Currently I am in a Game Developer program for women in Universidad del Valle de Guatemala (UVG).
 
 ## A brief history
-I have 4 years of professional experience, i started my career as a freelancer in Guatemala doing an intership in Chavvo Studios for some months in my last year of career. I worked doing characters in box modeling, texturing and also redering.
+I have 4 years of professional experience, i started my career as a freelancer in Guatemala doing an internship in Chavvo Studios for some months in my last year of career. I worked doing characters in box modeling, texturing and also rendering.
 
 I've worked with many type of clients for a variety of projects like character modeling and assets creation for games to digital sculpting for 3D printing. From small local businesses, public sector departments in collaboration with other artists and teams to entrepreneurs.
 
