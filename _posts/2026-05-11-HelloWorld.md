@@ -21,11 +21,11 @@ Well, i don't like at all pages like carrd and linktree.
 
 Why?
 
-They work pretty well but i just don't like the idea of having some links there just displaying and i know that you can configure little pages to display artwork and other things but since i grew with part of the classic web with blogs. Like some old artists and comic websites back in the day, i decided to make my own.
+They work pretty well but i just don't like the idea of having some links there just displaying and i know that you can configure little pages to display artwork and other things but since i grew with part of the classic web with blogs, forums and internet communities. Like some old artists and comic websites back in the day, i decided to make my own.
 A little late? sure, but here i am.
 
 It is still under construction and since i am not a web developer, i am using Jekyll with Github pages.
 
-Credits to [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and it's documentation this web exists.
+Credits to [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and it's documentation.
 
 Hope you can enjoy it :D
