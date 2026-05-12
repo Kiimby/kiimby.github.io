@@ -323,7 +323,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "/docs/_posts"
+      path: "docs/_posts"
       type: posts
     values:
       layout: single
