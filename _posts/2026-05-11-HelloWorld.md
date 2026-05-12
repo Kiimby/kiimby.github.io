@@ -11,20 +11,20 @@ categories:
 Hello World!
 
 Welcome to my site and blog?
-I am still not sure if a blog at all but i won't say no because things change, but anyways WELCOME!
+I am still not sure if a blog at all but I won't say no because things change, but anyway WELCOME!
 
 I have been working on it in my free time.
 
 Do you want to know why?
 
-Well, i don't like at all pages like carrd and linktree.
+Well, I don't like at all pages like carrd and linktree.
 
 Why?
 
-They work pretty well but i just don't like the idea of having some links there just displaying and i know that you can configure little pages to display artwork and other things but since i grew with part of the classic web with blogs, forums and internet communities, like some old artists and comic websites back in the day, that is whyi decided to make my own.
-A little late? sure, but here i am.
+They work pretty well, but I just don't like the idea of having some links there just displaying, of course you can configure little pages to display artwork and other things but since I grew with part of the classic web with blogs, forums and internet communities, like some old artists and comic websites back in the day. That's why I decided to make my own.
+A little late? Sure, but here I am.
 
-It is still under construction and since i am not a web developer, i am using Jekyll with Github pages.
+It is still under construction and since I am not a web developer, Jekyll with Github pages are my tools.
 
 Credits to [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and it's documentation.
 
