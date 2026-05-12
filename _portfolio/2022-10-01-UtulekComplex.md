@@ -15,9 +15,9 @@ Project made for my second year of university with my classmate [@letpetehost](h
 
 He worked on the modelling of the big light, traffic assets, chairs, door, trash assets, cables, extras for floor and secondary lamps.
 
-I made the models and textured the rest of the environment, light meter, tubes, metal sheets, cables, metal cages, walls, windows, steel columns, floor, railings, extras for floor. And i worked on the illumination.
+I made the models and texturing for the rest of the environment, like light meter, tubes, metal sheets, cables, metal cages, walls, windows, steel columns, floor, railings, etc. I also worked on the illumination for the scene.
 
-This days i decided to upgrade the illumination and work post processing in blender and photoshop.
+I had a lot in mind that i could improve it for the final result, so i decided to upgrade the illumination and work post processing in blender and photoshop.
 
 [//]: <> (Post process final image)
 
@@ -27,7 +27,7 @@ This days i decided to upgrade the illumination and work post processing in blen
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Post Processing</figcaption>
+  <figcaption>Final render with post processing</figcaption>
 </figure>
 
 [//]: <> (Render)
@@ -38,7 +38,7 @@ This days i decided to upgrade the illumination and work post processing in blen
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Render without post processing</figcaption>
+  <figcaption>Basic render without post processing</figcaption>
 </figure>
 
 [//]: <> (Textures render)
@@ -49,7 +49,7 @@ This days i decided to upgrade the illumination and work post processing in blen
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Environment texturized</figcaption>
+  <figcaption>Environment textures</figcaption>
 </figure>
 
 [//]: <> (Wireframe)
