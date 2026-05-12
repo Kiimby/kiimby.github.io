@@ -164,6 +164,7 @@ include:
   - "_pages"
   - _posts
   - _portfolio
+  - _games
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -328,7 +329,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -346,3 +347,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _games
+  - scope:
+      path: "_games"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  
