@@ -3,9 +3,9 @@ layout: single
 title:  "Day After Day"
 date: 2023-10-24
 header:
-  teaser: ""
+  teaser: "/assets/images/Teaser/DADTeaser.png"
 categories:
-  - games
+  - Games
 ---
 
 Submission for Con Latinidad for Celebration LATINX HERITAGE MONTH! in 2023.
