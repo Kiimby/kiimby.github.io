@@ -317,9 +317,11 @@ compress_html:
 collections:
   portfolio:
     output: true
+    sort_by: date
     permalink: /:collection/:path/
   games:
     output: true
+    sort_by: date
     permalink: /:collection/:path/
 
 # Defaults
