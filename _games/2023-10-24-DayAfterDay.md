@@ -23,9 +23,9 @@ María, Anita, Juan and Josesito will thank you for your management!
 
 [//]: <> (Game screenshot)
 
-{% capture fig_img %}
-![Foo]({{ "/assets/images/Games/DayAfterDay/DayAfterDay.jpg" | relative_url }})
-{% endcapture %}
+<figure>
+  <a href="/assets/images/Games/DayAfterDay/DayAfterDay.jpg"><img src="/assets/images/Games/DayAfterDay/DayAfterDay.jpg"></a>
+</figure>
 
 ## Where you can play it?
 [Android](https://kennyssc-1.itch.io/day-after-day)
