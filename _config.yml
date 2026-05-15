@@ -349,7 +349,7 @@ defaults:
       share: true
   # _games
   - scope:
-      path: "_games"
+      path: ""
       type: games
     values:
       layout: single
