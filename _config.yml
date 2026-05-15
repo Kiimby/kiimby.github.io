@@ -318,6 +318,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  games:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
