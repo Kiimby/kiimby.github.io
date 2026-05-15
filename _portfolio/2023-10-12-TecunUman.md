@@ -4,7 +4,7 @@ title:  "Tecún Umán (Tekun Umam)"
 date: 2023-10-12
 order: 7
 header:
-  teaser: "/assets/images/Teaser/KaijuTeaser.png"
+  teaser: "/assets/images/Teaser/TekunTeaser.png"
 categories:
   - Portfolio
 tags: 
