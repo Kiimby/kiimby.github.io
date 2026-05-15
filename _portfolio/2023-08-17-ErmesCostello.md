@@ -12,7 +12,7 @@ tags:
   - personal project
 ---
 
-A Jojo's fanart i started to do in 2022 as a human torso practice project but decided to make it a fan art of my favorite character of Hirohiko Araki's work.
+A Jojo's fanart i started to do in 2022 as a human torso practice project, in 2023 I decided to make it a fan art of my favorite character of Stone Ocean part of Hirohiko Araki's work.
 
 [//]: <> (Final render)
 
