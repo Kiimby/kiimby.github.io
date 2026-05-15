@@ -9,7 +9,7 @@ categories:
   - Games
 ---
 
-<p class="notice--info"><strong>Info Notice:</strong>This is a short horror novel made in Spanish in Ren'Py engine.</p>
+<p class="notice--info"><strong>Info Notice:</strong> This is a short horror novel made in Spanish in Ren'Py engine.</p>
 
 Luego de un día cansado por estrés de la vida, Zoe sale a dar una vuelta donde se encuentra con algo que llama su atención.
 
