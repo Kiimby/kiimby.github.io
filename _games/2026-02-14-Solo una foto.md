@@ -2,7 +2,7 @@
 layout: single
 title:  "Solo una foto"
 date: 2026-02-14
-order: 2
+order: 3
 header:
   teaser: "/assets/images/Teaser/UnaFotoTeaser.png"
 categories:
