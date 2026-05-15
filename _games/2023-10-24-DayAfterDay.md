@@ -30,5 +30,3 @@ María, Anita, Juan and Josesito will thank you for your management!
 ## Where you can play it?
 [Android](https://kennyssc-1.itch.io/day-after-day)
 [Windows](https://kennyssc-1.itch.io/day-after-day)
-
-
