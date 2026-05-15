@@ -8,7 +8,7 @@ categories:
   - Games
 ---
 
-Submission for Con Latinidad for Celebration LATINX HERITAGE MONTH! in 2023.
+Submission for Con Latinidad in Celebration LATINX HERITAGE MONTH! in 2023.
 
 I worked with college members doing environment illustrations and characters for this unity project.
 
