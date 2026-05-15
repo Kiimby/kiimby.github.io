@@ -24,7 +24,7 @@ María, Anita, Juan and Josesito will thank you for your management!
 [//]: <> (Game screenshot)
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/Games/DayAfterDay/DayAfterDay1.jpg" | relative_url }})
+![Foo]({{ "/assets/images/Games/DayAfterDay/DayAfterDay.jpg" | relative_url }})
 {% endcapture %}
 
 ## Where you can play it?
