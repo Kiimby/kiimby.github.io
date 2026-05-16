@@ -5,6 +5,7 @@ date: 2026-02-14
 order: 3
 header:
   teaser: "/assets/images/Teaser/UnaFotoTeaser.png"
+excerpt: "Short horror novel made in Spanish"
 categories:
   - Games
 ---

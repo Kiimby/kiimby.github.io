@@ -5,6 +5,7 @@ date: 2025-10-28
 order: 2
 header:
   teaser: "/assets/images/Teaser/RTTeaser.png"
+excerpt: "Survival mobile game for Android made by KSC Studios"
 categories:
   - Games
 ---

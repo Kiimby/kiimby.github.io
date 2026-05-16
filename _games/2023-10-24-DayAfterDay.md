@@ -5,11 +5,12 @@ date: 2023-10-24
 order: 1
 header:
   teaser: "/assets/images/Teaser/DADTeaser.png"
+excerpt: "Submission for Con Latinidad in Celebration LATINX HERITAGE MONTH! in 2023."
 categories:
   - Games
 ---
 
-Submission for Con Latinidad in Celebration LATINX HERITAGE MONTH! in 2023.
+Submission for the gamejam Con Latinidad in Celebration LATINX HERITAGE MONTH! in 2023.
 
 I worked with college members doing environment illustrations and characters for this unity project.
 
