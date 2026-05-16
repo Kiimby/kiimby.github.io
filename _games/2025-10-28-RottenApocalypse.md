@@ -13,7 +13,7 @@ Survival mobile game for Android made by [KSC Studios](https://kscstudios.wordpr
 
 I collaborated as Main art consultor, making some of the characters and QA testing until it's launch in October of 2025.
 
-**Story**
+## Story
 
 The vegetable kingdom is falling appart! The evil corp is creating a new type of food, it seems to be ultra processed and it will not doubt to finish all the healthy food!
 
@@ -21,7 +21,7 @@ You are the last hope of the kingdom and the surviving vegetables.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/27VslYte3Ls?si=yIinCVEGBmEmplS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Gameplay**
+## Gameplay
 
 Use a variety of weapons to erradicate the processed food!
 
@@ -34,4 +34,4 @@ To complete your task in the best way possible you need a proper gun, choose fro
 <iframe width="400" height="847" src="https://www.youtube.com/embed/dnL3a0grz6c" title="RA Survivors   Gameplay Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-https://play.google.com/store/apps/details?id=<com.kscstudios.rasurvivors&hl=en>
+https://play.google.com/store/apps/details?id=<kscstudios.rasurvivors&hl=en>
