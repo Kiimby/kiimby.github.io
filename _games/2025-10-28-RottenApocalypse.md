@@ -36,4 +36,4 @@ To complete your task in the best way possible you need a proper gun, choose fro
 
 [
   ![Google play game button](/assets/images/Games/RottenApocalypseSurvivors/GetItOnGooglePlay_Badge_Web_color_English.png)
-](https://play.google.com/store/apps/details?id=com.kscstudios.rasurvivors)
+](https://play.google.com/store/apps/details?id=com.kscstudios.rasurvivors){: .align-center style="width: 60px;"}
