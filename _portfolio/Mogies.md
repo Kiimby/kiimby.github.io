@@ -14,7 +14,7 @@ tags:
 ---
 
 
-In finals of 2021 to beginnings of 2022 i worked in a NFTs project of Chavvo Studios X Mogul Productions, making 3D modeling for different characters of movies, series and animations. This project helped me a lot with practicing and to improve my modeling, texturing and rendering skills while studying in university.
+In finals of 2021 to beginnings of 2022 I worked in a NFTs project of Chavvo Studios X Mogul Productions, making 3D modeling for different characters of movies, series and animations. This project helped me a lot with practicing and to improve my modeling, texturing and rendering skills while studying in university.
 
 I made more than 70 characters for this project, this was practically the first project that i worked that wasn't for university.
 
