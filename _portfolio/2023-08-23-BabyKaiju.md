@@ -5,7 +5,7 @@ date: 2023-08-23
 order: 6
 header:
   teaser: "/assets/images/Teaser/KaijuTeaser.png"
-excerpt: "Kaiju Sculpture practice."
+excerpt: "Kaiju Sculpture as a practice for creature design"
 categories:
   - Portfolio
 tags: 
