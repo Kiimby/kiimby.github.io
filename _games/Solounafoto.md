@@ -14,7 +14,7 @@ categories:
 
 Luego de un día cansado por estrés de la vida, Zoe sale a dar una vuelta donde se encuentra con algo que llama su atención.
 
-Este proyecto fue realizado como entrega de tarea utilizando el motor [Ren'Py](https://www.renpy.org/).
+Este proyecto inicio como una entrega de tarea para aprender a utilizar el motor [Ren'Py](https://www.renpy.org/).
 
 **Disponible para Windows, Linux y Web**
 

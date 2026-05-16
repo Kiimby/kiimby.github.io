@@ -13,7 +13,7 @@ tags:
   - commercial project
 ---
 
-I Worked this character face, hair and crown for Pilas Tecnología Guatemaya.
+I worked this character face, hair and crown for Pilas Tecnología Guatemaya.
 
 They already had a model they wanted to re use as their brand character so i got the opportunity to re create the face, head proportions, skin color change, hair and crown.
 
