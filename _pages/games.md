@@ -8,4 +8,5 @@ classes: wide
 sort_by: order
 sort_order: reverse
 autor profile: true
+toc: true
 ---

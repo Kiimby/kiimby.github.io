@@ -5,6 +5,7 @@ date: 2023-08-23
 order: 6
 header:
   teaser: "/assets/images/Teaser/KaijuTeaser.png"
+excerpt: "Kaiju Sculpture practice."
 categories:
   - Portfolio
 tags: 
