@@ -5,6 +5,7 @@ date: 2024-07-25
 order: 10
 header:
   teaser: "/assets/images/Teaser/MogiesTeaser.png"
+excerpt: "3D characters for Chavvo Studios x Mogul Porductions collaboration project"
 categories:
   - Portfolio
 tags: 
@@ -12,7 +13,6 @@ tags:
   - commercial project
 ---
 
-Characters from movies and series in 3D for Mogies projects.
 
 In finals of 2021 to beginnings of 2022 i worked in a NFTs project of Chavvo Studios X Mogul Productions, making 3D modeling for different characters of movies, series and animations. This project helped me a lot with practicing and to improve my modeling, texturing and rendering skills while studying in university.
 
