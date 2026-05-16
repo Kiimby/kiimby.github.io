@@ -31,7 +31,7 @@ You can't save the world without fashion, buy clothes for your characters, every
 
 To complete your task in the best way possible you need a proper gun, choose from the 45 available weapons of three categories, normal, piercing and shotguns!
 
-<iframe width="200" height="423.5" src="https://www.youtube.com/embed/dnL3a0grz6c" title="RA Survivors   Gameplay Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="133" height="282" src="https://www.youtube.com/embed/dnL3a0grz6c" title="RA Survivors   Gameplay Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Try our Game
