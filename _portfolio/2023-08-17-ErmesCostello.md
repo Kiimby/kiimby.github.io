@@ -5,6 +5,7 @@ date: 2023-08-17
 order: 5
 header:
   teaser: "/assets/images/Teaser/ErmesTeaser.png"
+excerpt: "Ermes Costello fanart re creation in 3D"
 categories:
   - Portfolio
 tags: 

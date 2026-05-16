@@ -5,6 +5,7 @@ date: 2023-11-24
 order: 9
 header:
   teaser: "/assets/images/Teaser/GarfTeaser.png"
+excerpt: "Baby Garfield fanart inspired in the Garfield movie"
 categories:
   - Portfolio
 tags: 

@@ -5,6 +5,7 @@ date: 2023-10-12
 order: 7
 header:
   teaser: "/assets/images/Teaser/TekunTeaser.png"
+excerpt: "Tecún Umán character for PIlas Tecnología Guatemaya"
 categories:
   - Portfolio
 tags: 

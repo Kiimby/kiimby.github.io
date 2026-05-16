@@ -5,6 +5,7 @@ date: 2022-10-01
 order: 2
 header:
   teaser: "/assets/images/Teaser/UtTeaser.png"
+excerpt: "Re creation of Utulek Complex of Deus ex: Makind Divided"
 categories:
   - Portfolio
 tags: 
