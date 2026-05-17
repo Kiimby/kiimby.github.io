@@ -16,7 +16,7 @@ tags:
 A little project that needed a rig, so the character can be animated later. 
 Thanks to starting learning manual rigging with a personal project i could make the process faster in this one.
 
-Got fun with this character!
+I got a lot of fun with this character!
 
 [//]: <> (Render)
 
