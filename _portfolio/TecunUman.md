@@ -15,9 +15,9 @@ tags:
 
 I worked this character face, hair and crown for Pilas Tecnología Guatemaya.
 
-They already had a model they wanted to re use as their brand character so i got the opportunity to re create the face, head proportions, skin color change, hair and crown.
+They already had a model they wanted to reuse as their brand character so I got the opportunity to recreate the face, head proportions, skin color change, hair and crown.
 
-It was a bit complicated but could achive the final result as how they wanted it.
+It was a bit complicated but could achieve the final result as how they wanted it.
 
 [//]: <> (Front render)
 
