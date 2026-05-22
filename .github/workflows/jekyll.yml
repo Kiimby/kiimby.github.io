@@ -33,42 +33,32 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Remove corrupt lockfile
-        run: rm -f Gemfile.lock
+      
       - name: Setup Ruby
-        # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
-        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: false # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Install dependencies
+          ruby-version: '3.1'
+          bundler-cache: false
+      
+      - name: Install Bundler and gems
         run: |
           gem install bundler -v 2.4.22
-          bundle _2.4.22_ install --verbose --path vendor/bundle
-          bundle _2.4.22_ list
-      - name: Verify Jekyll installation
+          bundle _2.4.22_ config set --local path vendor/bundle
+          bundle _2.4.22_ install --retry=3 --verbose
+      
+      - name: Debug installed gems
         run: |
-          bundle exec jekyll --version
-      - name: Show full error if failed
-        if: failure()
-        run: |
-          echo "=== ERROR COMPLETO ==="
-          cat bundle.log || echo "No log file"
-          echo "=== GEMFILE CONTENT ==="
-          cat Gemfile
-          echo "=== RUBY VERSION ==="
-          ruby --version
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+          bundle list
+          which jekyll || echo "Jekyll not found in PATH"
+          ls -la vendor/bundle/ruby/*/bin/ || echo "No binaries in vendor"
+      
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: |
+          bundle exec jekyll build --trace --baseurl ""
         env:
           JEKYLL_ENV: production
+      
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
         
 
