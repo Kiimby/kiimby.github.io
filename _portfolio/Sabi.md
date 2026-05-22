@@ -10,6 +10,7 @@ categories:
   - Portfolio
 tags: 
   - character modeling 
+  - VR
   - commercial project
 ---
 
