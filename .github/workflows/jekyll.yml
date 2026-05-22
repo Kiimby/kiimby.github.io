@@ -44,11 +44,12 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Install dependencies
         run: |
-          gem install bundler
-          bundle install --redownload --verbose 2>&1 | tee bundle.log
-          echo "Últimas 50 líneas del log:"
-          tail -n 50 bundle.log
-        continue-on-error: true
+          gem install bundler -v 2.4.22
+          bundle _2.4.22_ install --verbose --path vendor/bundle
+          bundle _2.4.22_ list
+      - name: Verify Jekyll installation
+        run: |
+          bundle exec jekyll --version
       - name: Show full error if failed
         if: failure()
         run: |
