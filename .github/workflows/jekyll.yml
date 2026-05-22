@@ -45,7 +45,19 @@ jobs:
       - name: Install dependencies
         run: |
           gem install bundler
-          bundle install --redownload
+          bundle install --redownload --verbose 2>&1 | tee bundle.log
+          echo "Últimas 50 líneas del log:"
+          tail -n 50 bundle.log
+        continue-on-error: true
+      - name: Show full error if failed
+        if: failure()
+        run: |
+          echo "=== ERROR COMPLETO ==="
+          cat bundle.log || echo "No log file"
+          echo "=== GEMFILE CONTENT ==="
+          cat Gemfile
+          echo "=== RUBY VERSION ==="
+          ruby --version
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
