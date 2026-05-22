@@ -5,7 +5,7 @@ date: 2025-10-07
 order: 15
 header:
   teaser: "/assets/images/Teaser/AssetsTeaser.png"
-excerpt: ""
+excerpt: "Chicken assets for a Pollo Rey VR Project"
 categories:
   - Portfolio
 tags: 
