@@ -9,5 +9,4 @@ group :jekyll_plugins do
   gem "jekyll-gist" "1.5.0" 
   gem "jekyll-feed" "0.17.0"
   gem "jekyll-include-cache" "0.2.0"
-  gem 'jekyll-email-protect'
 end
