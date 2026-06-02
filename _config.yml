@@ -323,7 +323,9 @@ collections:
     output: true
     sort_by: date
     permalink: /:collection/:path/
-  
+  tags:
+   output: true
+   permalink: /tags/:title/
 
 # Defaults
 defaults:
@@ -361,4 +363,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  
+  # tags
+  - scope:
+      path: " "
+      type: tags
+    values:
+      layout: tag_archive
+      author_profile: true
