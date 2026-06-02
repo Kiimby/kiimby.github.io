@@ -18,6 +18,8 @@ Last year i worked some assets for a BTL render of Dunkin' Donuts, this renders 
 
 I was contacted to assist in most of the assets that they required, you can see them at the end. They were completely modeled and textured by myself.
 
+## Final renders
+
 [//]: <> (BTL renders)
 
 {% capture fig_img %}
@@ -65,7 +67,7 @@ I was contacted to assist in most of the assets that they required, you can see 
   <figcaption>Interactive display</figcaption>
 </figure>
 
-Here are the assets I worked for this BTL:
+## Assets for the final renders
 
 [//]: <> (BTL Assets)
 
