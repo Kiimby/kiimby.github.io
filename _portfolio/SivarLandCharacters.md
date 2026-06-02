@@ -18,7 +18,7 @@ SivarLand is a festival organized on August in El Salvador, organized by San Sal
 
 They wanted characters that matched a technological esthetic that wasn't far from the traditional designs used in this festival, in this case they were searching for two characters, a female and male one. 
 
-I worked with the marketing city hall team ideas to create the cool characters they wanted to see in the AR app that the programming team was developing.
+The designs were worked with the marketing city hall team, using their ideas to create the cool characters they wanted to see in the AR app that the programming team was developing.
 
 [//]: <> (F character render and wireframe)
 
