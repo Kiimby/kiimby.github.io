@@ -323,6 +323,7 @@ collections:
     output: true
     sort_by: date
     permalink: /:collection/:path/
+  
 
 # Defaults
 defaults:
