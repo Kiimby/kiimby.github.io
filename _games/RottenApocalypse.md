@@ -6,15 +6,16 @@ order: 2
 header:
   teaser: "/assets/images/Teaser/RTTeaser.png"
 excerpt: "Survival mobile game for Android made by KSC Studios"
+toc: true
 ---
 
 Survival mobile game for Android made by [KSC Studios](https://kscstudios.wordpress.com/)
 
-I collaborated as Main art consultor, making some of the characters and QA testing until it's launch in October of 2025.
+I collaborated as Main art consultor, making some of the characters and QA testing until it's launch in October 2025.
 
 ## Story
 
-The vegetable kingdom is falling appart! The evil corp is creating a new type of food, it seems to be ultra processed and it will not doubt to finish all the healthy food!
+The vegetable kingdom is falling apart! The evil corp is creating a new type of food, it seems to be ultra processed, and it will not doubt to finish all the healthy food!
 
 You are the last hope of the kingdom and the surviving vegetables. 
 
@@ -22,7 +23,7 @@ You are the last hope of the kingdom and the surviving vegetables.
 
 ## Gameplay
 
-Use a variety of weapons to erradicate the processed food!
+Use a variety of weapons to eradicate the processed food!
 
 Buy new characters to match your needs!
 
