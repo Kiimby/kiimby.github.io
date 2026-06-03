@@ -138,6 +138,9 @@ author:
     - label: "ArtStation"
       icon: "fa-brands fa-artstation"
       url: https://www.artstation.com/kimmby
+    - label: "Cara"
+      icon: "fa-brands fa-c"
+      url: https://cara.app/kimby
 
 # Site Footer
 footer:
@@ -155,6 +158,9 @@ footer:
     - label: "ArtStation"
       icon: "fa-brands fa-artstation"
       url: https://www.artstation.com/kimmby
+    - label: "Cara"
+      icon: "fa-brands fa-c"
+      url: https://cara.app/kimby
   since: "2026"
 
 
