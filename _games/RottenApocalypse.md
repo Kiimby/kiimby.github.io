@@ -6,8 +6,6 @@ order: 2
 header:
   teaser: "/assets/images/Teaser/RTTeaser.png"
 excerpt: "Survival mobile game for Android made by KSC Studios"
-categories:
-  - Games
 ---
 
 Survival mobile game for Android made by [KSC Studios](https://kscstudios.wordpress.com/)

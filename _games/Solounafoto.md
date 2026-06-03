@@ -6,8 +6,6 @@ order: 3
 header:
   teaser: "/assets/images/Teaser/UnaFotoTeaser.png"
 excerpt: "Short horror novel made in Spanish"
-categories:
-  - Games
 ---
 
 <p class="notice--info"><strong>Info Notice:</strong> This is a short horror novel made in Spanish in Ren'Py engine.</p>
