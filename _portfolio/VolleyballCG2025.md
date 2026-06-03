@@ -6,6 +6,7 @@ order: 19
 header:
   teaser: "/assets/images/Teaser/VolleyBallGameTeaser.png"
 excerpt: "Assets for Central American Games of 2025 in Guatemala"
+toc: true
 tags: 
   - assets
   - commercial project

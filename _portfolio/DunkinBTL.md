@@ -6,6 +6,7 @@ order: 18
 header:
   teaser: "/assets/images/Teaser/DunkinTeaser.png"
 excerpt: "Assets for a BTL render of Dunkin' Donuts"
+toc: true
 tags: 
   - assets
   - commercial project
