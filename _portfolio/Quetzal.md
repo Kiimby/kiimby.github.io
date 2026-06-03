@@ -6,8 +6,6 @@ order: 4
 header:
   teaser: "/assets/images/Teaser/QuetzalTeaser.png"
 excerpt: "Quetzal sculpt stand for Pilas Tecnología Guatemaya"
-categories:
-  - Portfolio
 tags: 
   - sculpture 
   - 3D printing

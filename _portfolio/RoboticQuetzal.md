@@ -6,8 +6,6 @@ order: 11
 header:
   teaser: "/assets/images/Teaser/QRoboticoTeaser.png"
 excerpt: "Robotic Quetzal sculpt for Pilas Tecnología Guatemaya"
-categories:
-  - Portfolio
 tags: 
   - sculpture 
   - 3D printing

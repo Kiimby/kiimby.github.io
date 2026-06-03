@@ -6,8 +6,6 @@ order: 14
 header:
   teaser: "/assets/images/Teaser/SabiTeaser.png"
 excerpt: "Sabi the Owl for Nueva Vida VR project"
-categories:
-  - Portfolio
 tags: 
   - character modeling 
   - VR

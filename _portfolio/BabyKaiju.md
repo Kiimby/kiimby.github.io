@@ -6,8 +6,6 @@ order: 6
 header:
   teaser: "/assets/images/Teaser/KaijuTeaser.png"
 excerpt: "Kaiju Sculpture as a practice for creature design"
-categories:
-  - Portfolio
 tags: 
   - character modeling 
   - personal project

@@ -6,8 +6,6 @@ order: 12
 header:
   teaser: "/assets/images/Teaser/PastillaTeaser.png"
 excerpt: "Character commision"
-categories:
-  - Portfolio
 tags: 
   - character modeling 
   - commercial project

@@ -6,8 +6,6 @@ order: 13
 header:
   teaser: "/assets/images/Teaser/WapeachTeaser.png"
 excerpt: "Fanart of Wapeach concept art"
-categories:
-  - Portfolio
 tags: 
   - character modeling 
   - personal project

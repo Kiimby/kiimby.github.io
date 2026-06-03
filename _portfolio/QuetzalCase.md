@@ -6,8 +6,6 @@ order: 8
 header:
   teaser: "/assets/images/Teaser/CaseTeaser.png"
 excerpt: "2D and 3D case concept art for Pilas Tecnología Guatemaya"
-categories:
-  - Portfolio
 tags: 
   - Concept art
   - commercial project

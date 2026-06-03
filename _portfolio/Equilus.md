@@ -6,8 +6,6 @@ order: 1
 header:
   teaser: "/assets/images/Teaser/EqTeaser.png"
 excerpt: "3D model based in Equilus concept art of goldfishkang"
-categories:
-  - Portfolio
 tags: 
   - character modeling 
   - personal project

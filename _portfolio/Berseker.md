@@ -6,8 +6,6 @@ order: 3
 header:
   teaser: "/assets/images/Teaser/BersekerTeaser.png"
 excerpt: "Project for University based in game Nords: Heroes of the North"
-categories:
-  - Portfolio
 tags: 
   - character modeling 
   - personal project
