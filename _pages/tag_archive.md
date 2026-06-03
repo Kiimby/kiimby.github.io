@@ -5,12 +5,13 @@ layout: tags
 author_profile: true
 ---
 
-{% assign docs_by_tags = site.documents | group_by: 'tags' %}
-{% for tag in docs_by_tags %}
-<h2>{{ tag.name }}</h2>
-<ul>
-    {% for item in tag.items %}
-    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% for tag in site.tags %}
+{% for tag in work.tags %}
+  <h2>{{ tag[0] }}</h2>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-</ul>
+  </ul>
+{% endfor %}
 {% endfor %}
