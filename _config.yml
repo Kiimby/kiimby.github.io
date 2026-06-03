@@ -363,10 +363,3 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # tags
-  - scope:
-      path: " "
-      type: tags
-    values:
-      layout: tag_archive
-      author_profile: true
