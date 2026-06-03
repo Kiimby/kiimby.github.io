@@ -6,8 +6,6 @@ order: 15
 header:
   teaser: "/assets/images/Teaser/AssetsTeaser.png"
 excerpt: "Assets for a Pollo Rey VR Project"
-categories:
-  - Portfolio
 tags: 
   - assets
   - VR

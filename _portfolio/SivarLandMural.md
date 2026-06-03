@@ -6,8 +6,6 @@ order: 17
 header:
   teaser: "/assets/images/Teaser/SivarLandMuralTeaser.png"
 excerpt: "Mural and animations for AR SivarLand App"
-categories:
-  - Portfolio
 tags: 
   - assets
   - AR

@@ -6,8 +6,6 @@ order: 16
 header:
   teaser: "/assets/images/Teaser/SivarLandCharactersTeaser.png"
 excerpt: "Characters for AR SivarLand App"
-categories:
-  - Portfolio
 tags: 
   - character modeling 
   - AR

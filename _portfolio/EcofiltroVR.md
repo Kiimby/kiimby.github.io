@@ -6,8 +6,6 @@ order: 20
 header:
   teaser: "/assets/images/Teaser/EcofiltroVRTeaser.png"
 excerpt: "Game ready assets for a VR advergaming project featuring Ecofiltro"
-categories:
-  - Portfolio
 tags: 
   - assets
   - VR
