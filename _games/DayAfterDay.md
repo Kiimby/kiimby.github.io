@@ -6,6 +6,7 @@ order: 1
 header:
   teaser: "/assets/images/Teaser/DADTeaser.png"
 excerpt: "Submission for Con Latinidad in Celebration LATINX HERITAGE MONTH!"
+toc: true
 ---
 
 Submission for the gamejam Con Latinidad in Celebration LATINX HERITAGE MONTH! in 2023.
