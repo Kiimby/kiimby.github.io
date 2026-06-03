@@ -5,11 +5,21 @@ layout: tags
 author_profile: true
 ---
 
-{% assign docs_by_tags = site.documents | group_by: 'tags' %}
-{% for tag in docs_by_tags %}
+{% include group-by-array.html collection=site.documents field='tags' %}
+
 <ul>
-    {% for item in tag.items %}
-    <li><a href="{{ item.url }}">{{ tag.name }}</a></li>
+    {% for tag in group_names %}
+    {% assign posts = group_items[forloop.index0] %}
+
+    <li>
+        <h2>{{ tag }}</h2>
+        <ul>
+            {% for post in posts %}
+            <li>
+                <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </li>
     {% endfor %}
 </ul>
-{% endfor %}
