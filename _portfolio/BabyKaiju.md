@@ -6,10 +6,6 @@ order: 6
 header:
   teaser: "/assets/images/Teaser/KaijuTeaser.png"
 excerpt: "Kaiju Sculpture as a practice for creature design"
-tags: 
-  - character modeling 
-  - personal project
-  - sculpture 
 ---
 
 I made this sculpture as a practice for creature design, inspired in some Kaiju concepts but taking it to level to re imagine how can a baby little creature could looks.

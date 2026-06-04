@@ -7,10 +7,6 @@ header:
   teaser: "/assets/images/Teaser/DunkinTeaser.png"
 excerpt: "Assets for a BTL render of Dunkin' Donuts"
 toc: true
-tags: 
-  - assets
-  - commercial project
-  - BTL
 ---
 
 Last year i worked some assets for a BTL render of Dunkin' Donuts, this renders were made in collaboration. 

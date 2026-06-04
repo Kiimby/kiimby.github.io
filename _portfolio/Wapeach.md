@@ -6,12 +6,12 @@ order: 13
 header:
   teaser: "/assets/images/Teaser/WapeachTeaser.png"
 excerpt: "Fanart of Wapeach concept art"
-tags: 
-  - character modeling 
-  - personal project
+toc: true
 ---
 
 Fanart of Wapeach based in the concept created by Fumihide Aoki.
+
+## Render
 
 [//]: <> (Final render)
 
@@ -43,6 +43,7 @@ Fanart of Wapeach based in the concept created by Fumihide Aoki.
 ![Foo]({{ "/assets/images/Portfolio/ErmesCostello/BodyWireframe.jpg" | relative_url }})
 {% endcapture %}
 
+## Character Animation
 
 [//]: <> (Vimeo animation)
 <iframe src="https://player.vimeo.com/video/1192926866?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1&amp;loop=1" width="1080" height="1920" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Wapeach Animation"></iframe>

@@ -6,9 +6,6 @@ order: 9
 header:
   teaser: "/assets/images/Teaser/GarfTeaser.png"
 excerpt: "Baby Garfield fanart inspired in the Garfield movie"
-tags: 
-  - character modeling 
-  - personal project
 ---
 
 Fanart of baby Garfield, inspired in the concept shown in the movie trailer.

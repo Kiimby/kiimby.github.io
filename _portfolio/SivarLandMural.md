@@ -6,13 +6,12 @@ order: 17
 header:
   teaser: "/assets/images/Teaser/SivarLandMuralTeaser.png"
 excerpt: "Mural and animations for AR SivarLand App"
-tags: 
-  - assets
-  - AR
-  - commercial project
+toc: true
 ---
 
 SivarLand festival also required models from six known buildings in San Salvador, this assets are animated and optimized for an AR mobile experience with neon colors.
+
+## Mural
 
 [//]: <> (Mural pt 1 and wireframe)
 
@@ -54,6 +53,8 @@ SivarLand festival also required models from six known buildings in San Salvador
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Wireframe of the second part</figcaption>
 </figure>
+
+## Animations
 
 [//]: <> (Mural animations)
 

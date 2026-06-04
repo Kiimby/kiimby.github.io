@@ -6,9 +6,6 @@ order: 5
 header:
   teaser: "/assets/images/Teaser/ErmesTeaser.png"
 excerpt: "Ermes Costello fanart re creation in 3D"
-tags: 
-  - character modeling 
-  - personal project
 ---
 
 In 2022 I started doing a human torso practice project.

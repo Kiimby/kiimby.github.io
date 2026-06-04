@@ -6,10 +6,6 @@ order: 11
 header:
   teaser: "/assets/images/Teaser/QRoboticoTeaser.png"
 excerpt: "Robotic Quetzal sculpt for Pilas Tecnología Guatemaya"
-tags: 
-  - sculpture 
-  - 3D printing
-  - commercial project
 ---
 
 Robotic Quetzal bird for 3D printing, commission made for Pilas Tecnología Guatemaya.

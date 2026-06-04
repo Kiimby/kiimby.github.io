@@ -6,14 +6,14 @@ order: 8
 header:
   teaser: "/assets/images/Teaser/CaseTeaser.png"
 excerpt: "2D and 3D case concept art for Pilas Tecnología Guatemaya"
-tags: 
-  - Concept art
-  - commercial project
+toc: true
 ---
 
 2D and 3D concept art made for Pilas Tecnología Guatemaya.
 
 The idea was to make a concept for earbuds case with the form of a Quetzal bird.
+
+## 2D Concept Art
 
 [//]: <> (2D concept)
 
@@ -26,6 +26,7 @@ The idea was to make a concept for earbuds case with the form of a Quetzal bird.
   <figcaption>2D Concept art</figcaption>
 </figure>
 
+## Final Product Concept
 
 [//]: <> (Perspective render)
 

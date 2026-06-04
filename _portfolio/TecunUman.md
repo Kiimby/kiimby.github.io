@@ -6,9 +6,6 @@ order: 7
 header:
   teaser: "/assets/images/Teaser/TekunTeaser.png"
 excerpt: "Tecún Umán character for PIlas Tecnología Guatemaya"
-tags: 
-  - character modeling 
-  - commercial project
 ---
 
 I worked this character face, hair and crown for Pilas Tecnología Guatemaya.

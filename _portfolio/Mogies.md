@@ -6,9 +6,6 @@ order: 10
 header:
   teaser: "/assets/images/Teaser/MogiesTeaser.png"
 excerpt: "3D characters for Chavvo Studios x Mogul Porductions collaboration project"
-tags: 
-  - character modeling 
-  - commercial project
 ---
 
 

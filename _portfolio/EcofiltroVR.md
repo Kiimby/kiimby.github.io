@@ -6,15 +6,14 @@ order: 20
 header:
   teaser: "/assets/images/Teaser/EcofiltroVRTeaser.png"
 excerpt: "Game ready assets for a VR advergaming project featuring Ecofiltro"
-tags: 
-  - assets
-  - VR
-  - commercial project
+toc: true
 ---
 
 Game ready assets for a VR advergaming project featuring Ecofiltro and it's water purification functionality while making a comparison of usage and eco friendliness between regular purified bottled water.
 
 Most of the assets are 3D but it also includes four sprites made in 2D.
+
+## Assets
 
 [//]: <> (Filtros en conjunto)
 
@@ -48,6 +47,8 @@ Most of the assets are 3D but it also includes four sprites made in 2D.
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Extra assets for game, including 4 bacteria sprites</figcaption>
 </figure>
+
+## In Game
 
 [//]: <> (In game assets)
 

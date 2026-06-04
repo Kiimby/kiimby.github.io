@@ -6,10 +6,7 @@ order: 3
 header:
   teaser: "/assets/images/Teaser/BersekerTeaser.png"
 excerpt: "Project for University based in game Nords: Heroes of the North"
-tags: 
-  - character modeling 
-  - personal project
-  - sculpture 
+toc: true
 ---
 
 I made this Berserker of the game Nords: Heroes of the North from Plarium Games, for a project class in university.
@@ -17,6 +14,8 @@ I made this Berserker of the game Nords: Heroes of the North from Plarium Games,
 Original Concept by Valentin Demchenko.
 
 I made him in my style to experiment a bit.
+
+## Render Process
 
 [//]: <> (Final render)
 
@@ -50,6 +49,8 @@ I made him in my style to experiment a bit.
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Wireframe and textures in manual retopology</figcaption>
 </figure>
+
+## Turn Around
 
 [//]: <> (Vimeo turn around embed)
 <iframe src="https://player.vimeo.com/video/1192464740?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1&amp;loop=1" width="1080" height="1920" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Berseker"></iframe>

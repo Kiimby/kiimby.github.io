@@ -6,10 +6,6 @@ order: 4
 header:
   teaser: "/assets/images/Teaser/QuetzalTeaser.png"
 excerpt: "Quetzal sculpt stand for Pilas Tecnología Guatemaya"
-tags: 
-  - sculpture 
-  - 3D printing
-  - commercial project
 ---
 
 Quetzal sculpt stand made for 3D printing as a commission for Pilas Tecnología Guatemaya.

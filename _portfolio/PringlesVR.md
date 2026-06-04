@@ -6,13 +6,12 @@ order: 22
 header:
   teaser: "/assets/images/Teaser/PringlesTeaser.png"
 excerpt: "Asset for a Pringles VR project"
-tags: 
-  - assets
-  - VR
-  - commercial project
+toc: true
 ---
 
 Asset worked for a Pringles VR Advergaming project in Unity, this asset was made for product promotion.
+
+## Asset
 
 [//]: <> (Pringles Render1)
 
@@ -35,6 +34,8 @@ Asset worked for a Pringles VR Advergaming project in Unity, this asset was made
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Bottle different views</figcaption>
 </figure>
+
+## In Game
 
 [//]: <> (In game)
 <iframe src="https://player.vimeo.com/video/1183549873?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1&amp;muted=1&amp;loop=1" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Pringles Roller Coaster (2026)"></iframe>

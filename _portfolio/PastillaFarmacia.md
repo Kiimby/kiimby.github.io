@@ -6,9 +6,6 @@ order: 12
 header:
   teaser: "/assets/images/Teaser/PastillaTeaser.png"
 excerpt: "Character commision"
-tags: 
-  - character modeling 
-  - commercial project
 ---
 
 A little project that needed a rig, so the character can be animated later. 
