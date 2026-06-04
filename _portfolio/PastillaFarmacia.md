@@ -43,5 +43,5 @@ I got a lot of fun with this character!
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Wireframe</figcaption>
+  <figcaption>Character rig</figcaption>
 </figure>
