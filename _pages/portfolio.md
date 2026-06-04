@@ -11,4 +11,4 @@ autor profile: true
 toc: true
 ---
 
-Professional and personal art projects.
+Professional and personal art projects

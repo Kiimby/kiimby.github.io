@@ -11,4 +11,4 @@ autor profile: true
 toc: true
 ---
 
-Published games and personal projects.
+Published games and personal projects
