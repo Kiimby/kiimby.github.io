@@ -13,6 +13,10 @@ I had the honor to collaborate in the Central American Games 2025 with the outfi
 
 Mascot model and rigging was made by Lester Polanco, I worked the outfit modeling of the skates, helmet and all the texturing of the complete outfit, I have to say it was really fun to do since not every day I can do an outfit for a cute and fluffy jaguar.
 
+## Balami Skating
+
+<iframe src="https://player.vimeo.com/video/1198249149?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1&amp;loop=1" width="3413" height="1920" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Balami"></iframe>
+
 ## Outfit and accessories
 [//]: <> (Ropa)
 
@@ -53,7 +57,3 @@ Mascot model and rigging was made by Lester Polanco, I worked the outfit modelin
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Roller skates with the CG2025 colors</figcaption>
 </figure>
-
-## Balami Skating
-
-<iframe src="https://player.vimeo.com/video/1198249149?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1&amp;loop=1" width="3413" height="1920" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Balami"></iframe>
