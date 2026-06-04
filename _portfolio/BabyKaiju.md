@@ -6,11 +6,14 @@ order: 6
 header:
   teaser: "/assets/images/Teaser/KaijuTeaser.png"
 excerpt: "Kaiju Sculpture as a practice for creature design"
+toc: true
 ---
 
 I made this sculpture as a practice for creature design, inspired in some Kaiju concepts but taking it to level to re imagine how can a baby little creature could looks.
 
 The final sculpt it's a little different from the sketch idea, this was a decision i made because i wanted a more cute design because many animals specially what i saw, is that many baby reptiles have a more friendly shape.
+
+## Final Character
 
 [//]: <> (Final render)
 
@@ -66,6 +69,8 @@ The final sculpt it's a little different from the sketch idea, this was a decisi
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Render in perspective</figcaption>
 </figure>
+
+## Initial Concept Art Sketch
 
 [//]: <> (Sketch)
 
