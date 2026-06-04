@@ -6,9 +6,12 @@ order: 9
 header:
   teaser: "/assets/images/Teaser/GarfTeaser.png"
 excerpt: "Baby Garfield fanart inspired in the Garfield movie"
+toc: true
 ---
 
 Fanart of baby Garfield, inspired in the concept shown in the movie trailer.
+
+## Final Character
 
 [//]: <> (Principal render)
 
@@ -45,6 +48,7 @@ Fanart of baby Garfield, inspired in the concept shown in the movie trailer.
   <figcaption>Tail and legs close up</figcaption>
 </figure>
 
+## Turn Around
 
 [//]: <> (Sides render)
 
