@@ -15,7 +15,7 @@ They wanted characters that matched a technological esthetic that wasn't far fro
 
 The designs were worked with the marketing city hall team, using their ideas to create the cool characters they wanted to see in the AR app that the programming team was developing.
 
-## Character
+## Female Character
 
 [//]: <> (F character render and wireframe)
 
@@ -37,6 +37,7 @@ The designs were worked with the marketing city hall team, using their ideas to 
   <figcaption>Female character wireframe display in grey material.</figcaption>
 </figure>
 
+## Male Character
 
 [//]: <> (M character render and wireframe)
 
@@ -58,7 +59,7 @@ The designs were worked with the marketing city hall team, using their ideas to 
   <figcaption>Male character wireframe display with grey material color.</figcaption>
 </figure>
 
-## Character in Real Time
+## Characters in Real Time
 
 [//]: <> (In game AR)
 
