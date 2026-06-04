@@ -15,7 +15,7 @@ Original Concept by Valentin Demchenko.
 
 I made him in my style to experiment a bit.
 
-## Render Process
+## Final Character
 
 [//]: <> (Final render)
 
