@@ -11,8 +11,6 @@ toc: true
 
 Fanart of Wapeach based in the concept created by Fumihide Aoki.
 
-## Render
-
 [//]: <> (Final render)
 
 {% capture fig_img %}
@@ -27,6 +25,8 @@ Fanart of Wapeach based in the concept created by Fumihide Aoki.
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/Portfolio/ErmesCostello/BodyWireframe.jpg" | relative_url }})
 {% endcapture %}
+
+## Turn Around
 
 [//]: <> (Wireframe)
 
