@@ -6,6 +6,7 @@ order: 21
 header:
   teaser: "/assets/images/Teaser/KernsAssetsTeaser.png"
 excerpt: "Game ready assets for a VR advergaming project featuring Ecofiltro"
+toc: true
 ---
 
 Low polly assets of Kerns juice cans and ketchup for an advergaming project inspired in fruit ninja in VR.
