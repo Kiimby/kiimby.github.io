@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Panacam VR"
+title:  "Panacam"
 date: 2026-06-06
 order: 23
 header:
