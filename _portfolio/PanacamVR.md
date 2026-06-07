@@ -2,7 +2,7 @@
 layout: single
 title:  "Panacam"
 date: 2026-06-06
-order: 23
+order: 24
 header:
   teaser: "/assets/images/Teaser/PanacamVRTeaser.png"
 excerpt: "Realistic animals optimized for VR"
