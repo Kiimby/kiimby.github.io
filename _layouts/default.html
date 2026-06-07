@@ -8,6 +8,34 @@
   <head>
     {% include head.html locale=locale %}
     {% include head/custom.html %}
+
+    <style>
+  html {
+    background-image: url('/assets/images/Bubbles.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  html::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 0;
+    pointer-events: none;
+  }
+  
+  body {
+    position: relative;
+    z-index: 1;
+    background: transparent;
+  }
+</style>
+
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
