@@ -15,10 +15,9 @@ layout: archive
     {% for item in portfolio_items limit:6 %}
       <div class="grid__item">
         <article>
-          {% assign teaser_url = item.teaser | default: item.image %}
-          {% if teaser_url %}
+          {% if iteam.header.teaser %}
             <div class="archive__item-teaser">
-              <img src="{{ teaser_url | relative_url }}" alt="{{ item.title }}">
+              <img src="{{ item.header.teaser | relative_url }}" alt="{{ item.title }}">
             </div>
           {% endif %}
           
