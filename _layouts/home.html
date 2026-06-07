@@ -19,6 +19,10 @@ layout: archive
             <div class="archive__item-teaser">
               <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
             </div>
+          {% elsif item.teaser %}
+            <div class="archive__item-teaser">
+              <img src="{{ item.teaser | relative_url }}" alt="{{ item.title }}">
+            </div>
           {% endif %}
           
           <h3 class="archive__item-title">
