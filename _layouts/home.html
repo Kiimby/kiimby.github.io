@@ -15,11 +15,7 @@ layout: archive
     {% for item in portfolio_items limit:6 %}
       <div class="grid__item">
         <article>
-          {% if item.image %}
-            <div class="archive__item-teaser">
-              <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
-            </div>
-          {% elsif item.teaser %}
+          {% if item.teaser %}
             <div class="archive__item-teaser">
               <img src="{{ item.teaser | relative_url }}" alt="{{ item.title }}">
             </div>
