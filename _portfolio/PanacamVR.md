@@ -9,7 +9,7 @@ excerpt: "Realistic animals optimized for VR"
 toc: true
 ---
 
-In 2025 i made animals models and animations optimized for a VR project for PANACAM (Parque Nacional Azul Meámbar) in Honduras.
+In 2025, I made animals models and animations optimized for a VR project for PANACAM (Parque Nacional Azul Meámbar) in Honduras.
 
 It was beautiful to work doing realistic animals and learn more about them and their environment, this project was made as an experience to teach people about PANACAM work with the environment and animals protection in Honduras, I really learned and enjoyed many things with this project.
 
