@@ -7,34 +7,40 @@ layout: archive
 
 <!-- Portfolio -->
 
-<h2>Recent Work</h2>
+<section class="portfolio-section">
+  <h2>Recent Work</h2>
+  
+  <div class="grid__wrapper">
+    {% assign portfolio_items = site.portfolio | sort: 'date' | reverse %}
+    {% for item in portfolio_items limit:6 %}
+      <div class="grid__item">
+        <article>
+          {% if item.image %}
+            <div class="archive__item-teaser">
+              <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
+            </div>
+          {% endif %}
+          
+          <h3 class="archive__item-title">
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          </h3>
+          
+          {% if item.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ item.excerpt | markdownify }}
+            </div>
+          {% endif %}
+        </article>
+      </div>
+    {% endfor %}
+  </div>
+</section>
 
-<div class="grid__wrapper">
-  {% assign portfolio_items = site.portfolio | sort: 'date' | reverse %}
-  {% for item in portfolio_items limit:6 %}
-    <div class="grid__item">
-      <article>
-        {% if item.image %}
-          <div class="archive__item-teaser">
-            <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
-          </div>
-        {% endif %}
-        
-        <h3 class="archive__item-title">
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        </h3>
-        
-        {% if item.excerpt %}
-          <div class="archive__item-excerpt">
-            {{ item.excerpt | markdownify }}
-          </div>
-        {% endif %}
-      </article>
-    </div>
-  {% endfor %}
-</div>
+
+<hr class="section-divider">
 
 
+<section class="blog-section">
 <h3 class="archive__subtitle">{{ site.data.ui-text[locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
@@ -47,5 +53,6 @@ layout: archive
 <div class="entries-{{ entries_layout }}">
   {% include documents-collection.html locale=locale entries=posts type=entries_layout %}
 </div>
+</section>
 
 {% include paginator.html locale=locale %}
