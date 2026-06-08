@@ -129,9 +129,6 @@ author:
     - label: "Bluesky"
       icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/kiimby.bsky.social"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/kiimbyart/"
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
       url: https://misskey.art/@kimby
@@ -141,6 +138,9 @@ author:
     - label: "Cara"
       icon: "fa-brands fa-c"
       url: https://cara.app/kimby
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/kiimbyart/"
 
 # Site Footer
 footer:
@@ -149,9 +149,6 @@ footer:
       icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/kiimby.bsky.social"
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/kiimbyart/"
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
       url: https://misskey.art/@kimby
@@ -161,6 +158,9 @@ footer:
     - label: "Cara"
       icon: "fa-brands fa-c"
       url: https://cara.app/kimby
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/kiimbyart/"
   since: "2026"
 
 
