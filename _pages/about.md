@@ -8,11 +8,11 @@ layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
     alt: "splash layout"
-last_modified_at: 2026-05-11
+last_modified_at: 2026-07-04
 toc: true
 ---
 
-I am Game Designer and 3D Artist based in Guatemala from Universidad Internaciones (UNI) with a special passion on art for games and animation, looking forward to be a 3D generalist or 3D character modeler.
+I am a 3D Artist and Game Designer based in Guatemala with a bachelor's degree in Videogame Design from Universidad Internaciones (UNI) with a special passion on art for games and animation, looking forward to be a 3D generalist or 3D character modeler.
 
 Currently I am in a Game Developer program for women in Universidad del Valle de Guatemala (UVG).
 
