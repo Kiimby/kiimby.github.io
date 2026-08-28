@@ -141,6 +141,12 @@ author:
     - label: "UpScrolled"
       icon: "fa-solid fa-camera"
       url: https://upscrolled.com/@Kimbyart
+    - label: Xiaohongshu
+      icon: "fa-solid fa-video"
+      url: https://www.rednote.com/user/profile/6785db82000000000801859d
+    - label: bilibili
+      icon: "fa-brands fa-bilibili"
+      url: https://space.bilibili.com/3546871341517331
 
 # Site Footer
 footer:
@@ -164,6 +170,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/kiimbyart/"
+    - label: Xiaohongshu
+      icon: "fa-solid fa-video"
+      url: https://www.rednote.com/user/profile/6785db82000000000801859d
+    - label: bilibili
+      icon: "fa-brands fa-bilibili"
+      url: https://space.bilibili.com/3546871341517331
   since: "2026"
 
 
