@@ -10,8 +10,6 @@ toc: true
 ---
 I worked this 3D assets for a VR game that was showcased in an event of Pollo Rey from CMI corporation.
 
-This project was made in VR Honduras.
-
 ## Assets
 
 [//]: <> (Assets 1 render)

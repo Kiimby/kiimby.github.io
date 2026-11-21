@@ -9,7 +9,7 @@ excerpt: "Sabi the Owl for Nueva Vida VR project"
 toc: true
 ---
 
-A friendly Owl based in Nueva Vida mascot, worked it for a VR project in VR Honduras. 
+A friendly Owl based in Nueva Vida mascot, worked it for a VR project. 
 This little owl was in the project for giving a welcome warm and explain part of the history building of the cooperative, Nueva Vida.
 
 I was in charge of making the model, textures and animation so i can be implemented in the VR project for Nueva Vida.
