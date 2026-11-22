@@ -157,7 +157,7 @@ footer:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
-      url: rel="me" href="https://peoplemaking.games/@kimby"
+      url: <rel="me" href="https://peoplemaking.games/@kimby">
     - label: "ArtStation"
       icon: "fa-brands fa-artstation"
       url: https://www.artstation.com/kimmby
