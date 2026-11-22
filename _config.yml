@@ -131,22 +131,22 @@ author:
       url: "https://bsky.app/profile/kiimby.bsky.social"
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
-      url: https://misskey.art/@kimby
+      url: "https://peoplemaking.games/@kimby"
     - label: "ArtStation"
       icon: "fa-brands fa-artstation"
-      url: https://www.artstation.com/kimmby
+      url: "https://www.artstation.com/kimmby"
     - label: "Cara"
       icon: "fa-brands fa-c"
-      url: https://cara.app/kimby
+      url: "https://cara.app/kimby"
     - label: "UpScrolled"
       icon: "fa-solid fa-camera"
       url: https://upscrolled.com/@Kimbyart
     - label: Xiaohongshu
       icon: "fa-solid fa-video"
-      url: https://www.rednote.com/user/profile/6785db82000000000801859d
+      url: "https://www.rednote.com/user/profile/6785db82000000000801859d"
     - label: bilibili
       icon: "fa-brands fa-bilibili"
-      url: https://space.bilibili.com/3546871341517331
+      url: "https://space.bilibili.com/3546871341517331"
 
 # Site Footer
 footer:
@@ -157,7 +157,7 @@ footer:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
-      url: https://misskey.art/@kimby
+      url: "https://peoplemaking.games/@kimby"
     - label: "ArtStation"
       icon: "fa-brands fa-artstation"
       url: https://www.artstation.com/kimmby
