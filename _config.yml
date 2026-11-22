@@ -131,7 +131,7 @@ author:
       url: "https://bsky.app/profile/kiimby.bsky.social"
     - label: "Fediverse"
       icon: "fa-brands fa-fediverse"
-      url: https://misskey.art/@kimby
+      url: <a rel="me" href="https://peoplemaking.games/@kimby"></a>
     - label: "ArtStation"
       icon: "fa-brands fa-artstation"
       url: https://www.artstation.com/kimmby
